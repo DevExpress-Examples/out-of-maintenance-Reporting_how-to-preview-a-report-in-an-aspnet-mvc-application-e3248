@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[HomeController.cs](./CS/DevExpressMvcApplication1/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DevExpressMvcApplication1/Controllers/HomeController.vb))**
+* [XtraReport1.cs](./CS/DevExpressMvcApplication1/Reports/XtraReport1.cs) (VB: [XtraReport1.Designer.vb](./VB/DevExpressMvcApplication1/Reports/XtraReport1.Designer.vb))
+* [DocumentViewerPartial.cshtml](./CS/DevExpressMvcApplication1/Views/Home/DocumentViewerPartial.cshtml)
+* [Index.cshtml](./CS/DevExpressMvcApplication1/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to preview a report in an ASP.NET MVC application
 
 
