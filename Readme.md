@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128596543/13.2.5%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3248)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -11,9 +6,6 @@
 * **[Index.cshtml](./CS/DevExpressMvcApplication1/Views/Home/Index.cshtml)**
 <!-- default file list end -->
 # How to preview a report in an ASP.NET MVC application
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3248/)**
-<!-- run online end -->
 
 
 <p>This sample demonstrates a simple ASP.NET MVC application that contains a data-aware report and shows its print preview on the Web page using the <a href="https://documentation.devexpress.com/#AspNet/CustomDocument114491">Web Document Viewer</a> control.<br><br>See also:<br><a href="https://www.devexpress.com/Support/Center/p/E4714">How to create a report dynamically in the ASP.NET MVC application</a></p>
